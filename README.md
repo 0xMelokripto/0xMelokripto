@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hey, I'm 0xMelokripto 👋
 
-<!--
-**0xMelokripto/0xMelokripto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Crypto & Web3 Enthusiast
 
-Here are some ideas to get you started:
+I'm exploring the world of **blockchain, cryptocurrencies and decentralized technologies**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning, building and experimenting with new ideas across the Web3 ecosystem.
+
+---
+
+## 🚀 About Me
+
+* 🪙 Interested in **Crypto & Blockchain**
+* 🌐 Exploring **Web3 & Decentralized Technologies**
+* 💻 Learning by building real projects
+* 🔍 Curious about emerging technologies and on-chain ecosystems
+
+---
+
+## 🛠️ Currently Exploring
+
+`Blockchain` · `Web3` · `DeFi` · `Smart Contracts` · `Crypto` · `On-chain Technology`
+
+---
+
+## 📌 Featured Projects
+
+Coming soon...
+
+---
+
+## 🌐 Connect
+
+Feel free to explore my repositories and follow my journey into Web3.
+
+**Building. Learning. Exploring.** 🚀
